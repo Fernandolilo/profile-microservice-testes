@@ -8,6 +8,7 @@ management:
       exposure:
         include:
         - '*'
+#propriedade especila para expor no endpoint
 greeting-service:
   greeting: "Olá! Tudo bem?"
   default-value: "Fernando você é legal..."
