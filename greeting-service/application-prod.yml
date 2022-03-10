@@ -11,4 +11,4 @@ management:
 #propriedade especila para expor no endpoint
 greeting-service:
   greeting: "Oi!"
-  default-value: "Tudo bem?"
+  default-value: "Tudo bem com você?"
